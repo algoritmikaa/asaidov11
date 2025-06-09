@@ -1,0 +1,78 @@
+ body {
+  font-family: sans-serif;
+}
+
+header {
+  background-image: linear-gradient(to right,rgb(114, 173, 191),rgb(255, 21, 255),rgb(114, 173, 191));
+  width: 100%;
+  padding: 20px;
+}
+
+span {
+  color: pink;
+}
+
+h1 {
+  color: rgb(90, 90, 255);
+  text-align: center;
+}
+
+header img {
+  width: 30%;
+  height: 30%;
+}
+.sport {
+  width: 25%;
+  padding: 20px;
+}
+
+footer a {
+  text-decoration: none;
+  color: black;
+  font-size: 25px;
+  position: relative;
+  bottom: 31px;
+  border: 7px solid blue;
+  margin-left: 150px;
+  border-radius: 16px;
+  background-color: brown;
+  padding: 10px;
+}
+
+.merch {
+  text-decoration: none;
+  color: rgb(255, 255, 255);
+  font-size: 25px;
+  position: relative;
+  bottom: 31px;
+  border: 7px solid blue;
+  margin-left: 150px;
+  border-radius: 16px;
+  background-color: rgb(0, 0, 0);
+  padding: 10px;
+}
+
+footer {
+  padding: 50px;
+  background-color: blueviolet;
+}
+
+footer p {
+  font-size: 37px;
+}
+
+.sub {
+  width: 25%;
+  height: 25%;
+  padding: 20px;
+}
+
+.donaldson {
+  width: 40%;
+  height: 40%;
+}
+
+.history {
+  background-color: rgb(114, 173, 191);
+  color: white;
+}
